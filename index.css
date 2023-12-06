@@ -1,0 +1,94 @@
+
+.btn-criar{
+    background-color: white;
+    border: 1px solid lightseagreen;
+    border-radius: 5px;
+    padding: 10px;
+    color: lightseagreen;
+}
+.btn-criar:hover{
+    background-color: lightseagreen;
+    color: white;
+}
+.btn-reiniciar{
+    background-color: lightseagreen;
+    border: 1px solid lightseagreen;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+}
+.btn-reiniciar:hover{
+    background-color: white;
+    color: lightseagreen;
+}
+.btn-jogar{
+    background-color: lightseagreen;
+    border: 1px solid lightseagreen;
+    border-radius: 5px;
+    padding: 10px 30px;
+    color: white;
+}
+.btn-jogar:hover{
+    background-color: white;
+    color: lightseagreen;
+}
+#bingo{
+    border: 2px solid lightseagreen;
+    margin-bottom: 50px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.borda-tabela {
+    border: 1px solid black;
+    margin: 5px;
+}
+
+th, td {
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.jogo-header{
+    width: 100%;
+    height: 150px;
+    background-color: lightseagreen;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.centro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sorteado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 25px;
+    width: 30px;
+    height: 30px;
+    color: blue;
+    background-color: pink;
+    border: 1px solid blueviolet;
+    border-radius: 15px;
+    margin: 5px;
+}
